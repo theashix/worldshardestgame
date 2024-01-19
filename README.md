@@ -1,1 +1,1 @@
-An implementation of the game The World's Hardest Game on the Spartan 7 FPGA
+An implementation of the game The World's Hardest Game on the Spartan 7 FPGA. The first three levels of the game are complete. Currently, there are no plans to implement more levels. Only the SV files are uploaded here without IPs.
